@@ -1,5 +1,17 @@
 <p align="center">
-  <img src="github-profile-header.png" width="100%" alt="Кіт Михайло — пере-адмін, недо-DevOps">
+  <img src="github-profile-header.png" width="100%" alt="Кіт Михайло — CyberPW-Asistant">
+</p>
+
+<h1 align="center">Кіт Михайло · CyberPW-Asistant</h1>
+
+<p align="center">
+  <strong>Інструменти та помічники для Perfect World</strong><br>
+  CyberPW · DarkSide Clan · Windows 7/10/11
+</p>
+
+<p align="center">
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v0.82-beta"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/titul_helper/total?style=for-the-badge&logo=github&label=Завантаження&color=0f9d7a" alt="Кількість завантажень"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v0.82-beta"><img src="https://img.shields.io/badge/CyberPW--Asistant-0.82_Beta-d4a017?style=for-the-badge&logo=windows&logoColor=white" alt="CyberPW-Asistant 0.82 Beta"></a>
 </p>
 
 <p align="center">
@@ -9,38 +21,37 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper"><img src="https://img.shields.io/badge/TitulHelper-GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="TitulHelper"></a>
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/latest"><img src="https://img.shields.io/badge/ЗАВАНТАЖИТИ-RELEASE-d4a017?style=for-the-badge&logo=windows&logoColor=white" alt="Завантажити TitulHelper"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper"><img src="https://img.shields.io/badge/CyberPW--Asistant-GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="CyberPW-Asistant"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/download/v0.82-beta/Cyber.pw-Asistant-Portable.zip"><img src="https://img.shields.io/badge/ЗАВАНТАЖИТИ-PORTABLE-d4a017?style=for-the-badge&logo=windows&logoColor=white" alt="Завантажити CyberPW-Asistant"></a>
   <a href="https://www.youtube.com/@Vitalik_Juk"><img src="https://img.shields.io/badge/YouTube-Vitalik__Juk-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://send.monobank.ua/jar/93N5FBB3zX"><img src="https://img.shields.io/badge/ПІДТРИМАТИ-MONOBANK-222222?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Підтримати через Monobank"></a>
 </p>
 
-<h2 align="center">Просто гравець · DarkSide Clan</h2>
+---
+
+## 🚀 CyberPW-Asistant 0.82 Beta
+
+Неофіційний portable-лаунчер та набір інструментів для гравців CyberPW:
+
+- **TitulHelper** — 259 точок титулів, автоматичні координати, OCR і збереження прогресу;
+- **MultiLauncher** — зашифровані профілі та запуск кількох персонажів;
+- **Розморозка вікон** — окремий вибір клієнтів для фонового рендера;
+- **Світові боси** — українська база координат, розклад і швидкі мітки;
+- **Календар івентів** — компактний тижневий розклад;
+- **Симулятор скрині** — перевірка шансів випадіння;
+- світла й темна теми, адаптивні вікна та підтримка Windows 7/10/11.
 
 <p align="center">
-  Створюю корисні штуки для спільноти CyberPW.<br>
-  Автор <strong>Cyber.pw Asistant — TitulHelper</strong>.<br>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/download/v0.82-beta/Cyber.pw-Asistant-Portable.zip"><strong>⬇️ Завантажити CyberPW-Asistant 0.82 Beta</strong></a>
+  ·
+  <a href="https://github.com/vitalikjukivskiy/titul_helper"><strong>📖 Відкрити репозиторій</strong></a>
+</p>
+
+---
+
+<p align="center">
+  Звичайний гравець, який створює корисні штуки для спільноти CyberPW.<br>
   <em>Не є представником адміністрації CyberPW.</em>
 </p>
 
----
-
-### 🏆 Cyber.pw Asistant — TitulHelper
-
-Windows-помічник, який автоматично вводить координати титулів у гру, сканує доступні персонажу титули через OCR та підсвічує вже отримані.
-
-- база з 259 точок запуску титулів;
-- автоматичне введення координат і назви мітки;
-- автоскан довгого списку отриманих титулів;
-- підтримка кількох моніторів;
-- portable-запуск без Python та сторонніх бібліотек.
-
-<p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/latest"><strong>⬇️ Завантажити останню версію TitulHelper</strong></a>
-</p>
-
----
-
-<p align="center">
-  <strong>Пере-адмін · Недо-DevOps · Кіт Михайло 🐈‍⬛</strong>
-</p>
+<p align="center"><strong>Пере-адмін · Недо-DevOps · Кіт Михайло 🐈‍⬛</strong></p>
