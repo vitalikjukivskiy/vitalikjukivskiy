@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="github-profile-header.png" width="100%" alt="Кіт Михайло — CyberPW Assistant">
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v0.90-design-preview"><img src="https://img.shields.io/badge/CyberPW%20Assistant-0.90%20Design%20Preview-d4af37?style=for-the-badge&logo=windows&logoColor=white" alt="CyberPW Assistant 0.90 Design Preview"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/CyberPW%20Assistant-1.0-d4af37?style=for-the-badge&logo=windows&logoColor=white" alt="CyberPW Assistant 1.0"></a>
   <a href="https://github.com/vitalikjukivskiy/titul_helper/releases"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/titul_helper/total?style=for-the-badge&logo=github&label=Downloads&color=0f9d7a" alt="Завантаження CyberPW Assistant"></a>
 </p>
 
@@ -22,11 +22,11 @@
   <a href="https://www.youtube.com/@Vitalik_Juk">YouTube</a>
 </p>
 
-## CyberPW Assistant 0.90 Design Preview
+## CyberPW Assistant 1.0
 
 Portable-набір інструментів для Windows 7/10/11:
 
-- **TitulHelper** — 259 точок у 37 ланцюжках, прогрес, калібрування та OCR;
+- **TitulHelper** — 259 точок у 37 ланцюжках, прогрес і синхронізація без OCR;
 - **MultiLauncher** — зашифровані профілі й запуск кількох персонажів;
 - **Macro Studio (клікер) — Beta** — клавіатура, миша, цикли, пікселі, кнопка запуску та власна клавіша старту;
 - **Карта територіальних війн (ГВГ) — Beta** — 51 територія й локальні дані боїв;
@@ -34,7 +34,7 @@ Portable-набір інструментів для Windows 7/10/11:
 - оновлений округлений дизайн, світла й темна теми.
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v0.90-design-preview"><strong>⬇️ Завантажити 0.90 Design Preview</strong></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><strong>⬇️ Завантажити 1.0</strong></a>
   ·
   <a href="https://github.com/vitalikjukivskiy/titul_helper"><strong>📖 Інструкція та код</strong></a>
 </p>
@@ -49,7 +49,7 @@ Portable-набір інструментів для Windows 7/10/11:
 | [CyberPW Assistant](https://github.com/vitalikjukivskiy/titul_helper) | Лаунчер, TitulHelper, Macro Studio, ГВГ та інші модулі |
 | [Титули CyberPW](https://vitalikjukivskiy.github.io/titulPW/) | Онлайн-довідник ланцюжків, NPC, мобів і квестів |
 | [CyberPW на Mac](https://github.com/vitalikjukivskiy/cyberpw-mac-crossover-guide) | Запуск на Apple Silicon через CrossOver |
-| [Новий форумний гайд 0.90](https://github.com/vitalikjukivskiy/titul_helper/blob/main/FORUM-GUIDE-0.90.md) | Готовий актуальний текст для нової теми форуму |
+| [Форумний гайд 1.0](https://github.com/vitalikjukivskiy/titul_helper/blob/main/FORUM-GUIDE-1.0.md) | Готовий актуальний текст для нової теми форуму |
 
 ## Підтримка
 
