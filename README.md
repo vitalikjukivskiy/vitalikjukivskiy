@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/CyberPW%20Assistant-1.05%20Beta-d4af37?style=for-the-badge&logo=windows&logoColor=white" alt="CyberPW Assistant 1.05 Beta"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/CyberPW%20Assistant-1.07%20Beta-d4af37?style=for-the-badge&logo=windows&logoColor=white" alt="CyberPW Assistant 1.07 Beta"></a>
   <a href="https://github.com/vitalikjukivskiy/titul_helper/releases"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/titul_helper/total?style=for-the-badge&logo=github&label=Downloads&color=0f9d7a" alt="Завантаження CyberPW Assistant"></a>
 </p>
 
@@ -22,19 +22,19 @@
   <a href="https://youtu.be/--JevuwyL7s">Відеогайд</a>
 </p>
 
-## CyberPW Assistant 1.05 Beta
+## CyberPW Assistant 1.07 Beta
 
 Portable-набір інструментів для Windows 7/10/11:
 
-- **TitulHelper** — 260 титулів, прогрес і синхронізація без OCR;
+- **TitulHelper** — 260 титулів, вибір вікна гри, прогрес, синхронізація без OCR і майстер координат;
 - **MultiLauncher** — зашифровані профілі й запуск кількох персонажів;
-- **Macro Studio (клікер) — Beta** — швидкі сценарії та власні клавіші старту й аварійної зупинки для кожного макросу;
+- **Macro Studio (клікер) — Beta** — швидкі сценарії, захоплення пікселя, IF / IF NOT та власні клавіші старту й аварійної зупинки;
 - **Карта територіальних війн (ГВГ) — Beta** — 51 територія й локальні дані боїв;
 - **Світові боси**, календар івентів, розморозка вікон і симулятор скрині;
 - новий літній темний дизайн з окремими фонами та значками модулів.
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><strong>⬇️ Завантажити 1.05 Beta</strong></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><strong>⬇️ Завантажити 1.07 Beta</strong></a>
   ·
   <a href="https://github.com/vitalikjukivskiy/titul_helper"><strong>📖 Інструкція та код</strong></a>
 </p>
@@ -55,7 +55,7 @@ Portable-набір інструментів для Windows 7/10/11:
 
 - [Повідомити про помилку](https://github.com/vitalikjukivskiy/titul_helper/issues)
 - [Підтримати через Monobank](https://send.monobank.ua/jar/93N5FBB3zX)
-- [Відеогайд 1.05 Beta](https://youtu.be/--JevuwyL7s)
+- [Відеогайд 1.07 Beta](https://youtu.be/--JevuwyL7s)
 
 <p align="center">
   Звичайний гравець, який створює корисні інструменти для спільноти CyberPW.<br>
