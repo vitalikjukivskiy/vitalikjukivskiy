@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/CyberPW%20Assistant-1.07%20Beta-d4af37?style=for-the-badge&logo=windows&logoColor=white" alt="CyberPW Assistant 1.07 Beta"></a>
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/titul_helper/total?style=for-the-badge&logo=github&label=Downloads&color=0f9d7a" alt="Завантаження CyberPW Assistant"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/releases"><img src="https://img.shields.io/github/v/release/vitalikjukivskiy/titul_helper-2.0?include_prereleases&style=for-the-badge&label=CyberPW%20Assistant&color=d4af37" alt="Актуальна версія CyberPW Assistant"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/releases"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/titul_helper-2.0/total?style=for-the-badge&logo=github&label=Downloads&color=0f9d7a" alt="Завантаження CyberPW Assistant"></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/actions/workflows/validate.yml"><img src="https://img.shields.io/github/actions/workflow/status/vitalikjukivskiy/titul_helper-2.0/validate.yml?branch=main&style=for-the-badge&label=Build" alt="Статус збірки"></a>
 </p>
 
 <p align="center">
@@ -19,43 +20,46 @@
   <a href="https://forum.cyberpw.fun/index.php?threads/titulhelper-1-0.271/">Тема на форумі</a> ·
   <a href="https://cabinet.cyberpw.fun/">Кабінет</a> ·
   <a href="https://cabinet.cyberpw.fun/register.php?ref=4550">Реєстрація з бонусом</a> ·
-  <a href="https://youtu.be/--JevuwyL7s">Відеогайд</a>
+  <a href="https://www.youtube.com/@Vitalik_Juk">YouTube</a>
 </p>
 
-## CyberPW Assistant 1.07 Beta
+## CyberPW Assistant 2.x Beta
 
-Portable-набір інструментів для Windows 7/10/11:
+Актуальна C# portable-версія для Windows. Номер релізу та статистика завантажень у бейджах вище оновлюються автоматично з репозиторію `titul_helper-2.0`.
 
-- **TitulHelper** — 260 титулів, вибір вікна гри, прогрес, синхронізація без OCR і майстер координат;
-- **MultiLauncher** — зашифровані профілі й запуск кількох персонажів;
-- **Macro Studio (клікер) — Beta** — швидкі сценарії, захоплення пікселя, IF / IF NOT та власні клавіші старту й аварійної зупинки;
-- **Карта територіальних війн (ГВГ) — Beta** — 51 територія й локальні дані боїв;
-- **Світові боси**, календар івентів, розморозка вікон і симулятор скрині;
-- новий літній темний дизайн з окремими фонами та значками модулів.
+- **TitulHelper** — 260 титулів, пошук, прогрес, синхронізація з `ElementClient` без OCR та майстер координат;
+- **автовведення титулів** — повторна активація клієнта, перевірка відкриття поля координат, контрольована повторна спроба і fail-safe;
+- **MultiLauncher** — локальні профілі персонажів і запуск кількох клієнтів;
+- **Macro Studio — Beta** — клавіатура, миша, паузи, цикли, текст, умови й робота з кольором пікселя;
+- **Вікторина КХ** — українська база питань і відповідей;
+- **Вікторина Чон-Пон** — українська база питань і відповідей;
+- **Реси**, **симулятор заточки**, **симулятор Скрині Тора**, **розморозка вікон**, **світові та хроно-боси**, календар івентів;
+- автоматичні оновлення через GitHub Releases з перевіркою SHA-256.
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper/releases/tag/v1.0.0"><strong>⬇️ Завантажити 1.07 Beta</strong></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/releases"><strong>⬇️ Завантажити актуальну версію</strong></a>
   ·
-  <a href="https://github.com/vitalikjukivskiy/titul_helper"><strong>📖 Інструкція та код</strong></a>
+  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0"><strong>📖 Інструкція та вихідний код</strong></a>
 </p>
 
 > [!IMPORTANT]
-> Macro Studio і ГВГ поки мають статус **Beta**. Перед використанням макросів перевіряйте правила сервера й тестуйте сценарії у безпечному вікні.
+> CyberPW Assistant — неофіційний фанатський проєкт. Окремі модулі мають статус **Beta**; перед використанням автоматизації перевіряйте правила сервера.
 
 ## Мої проєкти та гайди
 
 | Проєкт | Що всередині |
 |---|---|
-| [CyberPW Assistant](https://github.com/vitalikjukivskiy/titul_helper) | Лаунчер, TitulHelper, Macro Studio, ГВГ та інші модулі |
+| [CyberPW Assistant 2.0](https://github.com/vitalikjukivskiy/titul_helper-2.0) | TitulHelper, MultiLauncher, Macro Studio, вікторини, симулятори та інші модулі |
 | [Титули CyberPW](https://vitalikjukivskiy.github.io/titulPW/) | Онлайн-довідник ланцюжків, NPC, мобів і квестів |
 | [CyberPW на Mac](https://github.com/vitalikjukivskiy/cyberpw-mac-crossover-guide) | Запуск на Apple Silicon через CrossOver |
-| [Тема CyberPW Assistant на форумі](https://forum.cyberpw.fun/index.php?threads/titulhelper-1-0.271/) | Актуальний гайд, обговорення й допомога |
+| [Тема CyberPW Assistant на форумі](https://forum.cyberpw.fun/index.php?threads/titulhelper-1-0.271/) | Гайд, обговорення та допомога |
 
 ## Підтримка
 
-- [Повідомити про помилку](https://github.com/vitalikjukivskiy/titul_helper/issues)
+- [Повідомити про помилку](https://github.com/vitalikjukivskiy/titul_helper-2.0/issues)
+- [Переглянути релізи](https://github.com/vitalikjukivskiy/titul_helper-2.0/releases)
 - [Підтримати через Monobank](https://send.monobank.ua/jar/93N5FBB3zX)
-- [Відеогайд 1.07 Beta](https://youtu.be/--JevuwyL7s)
+- [YouTube](https://www.youtube.com/@Vitalik_Juk)
 
 <p align="center">
   Звичайний гравець, який створює корисні інструменти для спільноти CyberPW.<br>
