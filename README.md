@@ -6,13 +6,13 @@
 
 <p align="center">
   Інструменти та зрозумілі гайди для гравців Perfect World<br>
-  <strong>CyberPW · DarkSide Clan · Open Source</strong>
+  <strong>CyberPW · DarkSide Clan · Binary Releases</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/releases"><img src="https://img.shields.io/github/v/release/vitalikjukivskiy/titul_helper-2.0?include_prereleases&style=for-the-badge&label=CyberPW%20Assistant&color=d4af37" alt="Актуальна версія CyberPW Assistant"></a>
-  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/releases"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/titul_helper-2.0/total?style=for-the-badge&logo=github&label=Downloads&color=0f9d7a" alt="Завантаження CyberPW Assistant"></a>
-  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/actions/workflows/validate.yml"><img src="https://img.shields.io/github/actions/workflow/status/vitalikjukivskiy/titul_helper-2.0/validate.yml?branch=main&style=for-the-badge&label=Build" alt="Статус збірки"></a>
+  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><img src="https://img.shields.io/github/v/release/vitalikjukivskiy/cyberpw-assistant-releases?include_prereleases&style=for-the-badge&label=CyberPW%20Assistant&color=d4af37" alt="Актуальна версія CyberPW Assistant"></a>
+  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><img src="https://img.shields.io/github/downloads/vitalikjukivskiy/cyberpw-assistant-releases/total?style=for-the-badge&logo=github&label=Downloads&color=0f9d7a" alt="Завантаження CyberPW Assistant"></a>
+  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><img src="https://img.shields.io/badge/Distribution-Binary%20Only-0f9d7a?style=for-the-badge" alt="Статус збірки"></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## CyberPW Assistant 2.x Beta
 
-Актуальна C# portable-версія для Windows. Номер релізу та статистика завантажень у бейджах вище оновлюються автоматично з репозиторію `titul_helper-2.0`.
+Актуальна C# portable-версія для Windows. Номер релізу та статистика завантажень у бейджах вище оновлюються автоматично з репозиторію `cyberpw-assistant-releases`.
 
 - **TitulHelper** — 260 титулів, пошук, прогрес, синхронізація з `ElementClient` без OCR та майстер координат;
 - **автовведення титулів** — повторна активація клієнта, перевірка відкриття поля координат, контрольована повторна спроба і fail-safe;
@@ -37,9 +37,9 @@
 - автоматичні оновлення через GitHub Releases з перевіркою SHA-256.
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0/releases"><strong>⬇️ Завантажити актуальну версію</strong></a>
+  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><strong>⬇️ Завантажити актуальну версію</strong></a>
   ·
-  <a href="https://github.com/vitalikjukivskiy/titul_helper-2.0"><strong>📖 Інструкція та вихідний код</strong></a>
+  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><strong>📦 Готові релізи</strong></a>
 </p>
 
 > [!IMPORTANT]
@@ -49,15 +49,15 @@
 
 | Проєкт | Що всередині |
 |---|---|
-| [CyberPW Assistant 2.0](https://github.com/vitalikjukivskiy/titul_helper-2.0) | TitulHelper, MultiLauncher, Macro Studio, вікторини, симулятори та інші модулі |
+| [CyberPW Assistant 2.0](https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases) | TitulHelper, MultiLauncher, Macro Studio, вікторини, симулятори та інші модулі |
 | [Титули CyberPW](https://vitalikjukivskiy.github.io/titulPW/) | Онлайн-довідник ланцюжків, NPC, мобів і квестів |
 | [CyberPW на Mac](https://github.com/vitalikjukivskiy/cyberpw-mac-crossover-guide) | Запуск на Apple Silicon через CrossOver |
 | [Тема CyberPW Assistant на форумі](https://forum.cyberpw.fun/index.php?threads/titulhelper-1-0.271/) | Гайд, обговорення та допомога |
 
 ## Підтримка
 
-- [Повідомити про помилку](https://github.com/vitalikjukivskiy/titul_helper-2.0/issues)
-- [Переглянути релізи](https://github.com/vitalikjukivskiy/titul_helper-2.0/releases)
+- [Повідомити про помилку](https://forum.cyberpw.fun/)
+- [Переглянути релізи](https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases)
 - [Підтримати через Monobank](https://send.monobank.ua/jar/93N5FBB3zX)
 - [YouTube](https://www.youtube.com/@Vitalik_Juk)
 
