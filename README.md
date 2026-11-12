@@ -21,7 +21,7 @@
 Неофіційний набір інструментів для Perfect World / CyberPW: Windows-утиліта, довідники, автоматизація та документація. Основний вихідний код приватний, готові збірки доступні окремо.
 
 <p align="center">
-  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases/latest"><img src="https://img.shields.io/badge/⬇️%20ЗАВАНТАЖИТИ-Актуальний%20реліз-0f9d7a?style=for-the-badge" alt="Завантажити актуальний реліз"></a>
+  <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><img src="https://img.shields.io/badge/⬇️%20ЗАВАНТАЖИТИ-Актуальний%20реліз-0f9d7a?style=for-the-badge" alt="Завантажити актуальний реліз"></a>
   <a href="https://github.com/vitalikjukivskiy/cyberpw-assistant-releases/releases"><img src="https://img.shields.io/badge/📦%20УСІ%20ЗБІРКИ-GitHub%20Releases-d4af37?style=for-the-badge" alt="Усі збірки"></a>
 </p>
 
